@@ -25,6 +25,8 @@ IGA-Insights is a PowerShell toolkit designed to help Identity & Access Manageme
 - PowerShell 7.0 or higher
 - Az PowerShell module (`Az.Accounts`, `Az.OperationalInsights`)
 - Microsoft.Graph PowerShell module
+- A Log Analytics Workspace with at least 365 days of retention period (recommended)
+- SignInLogs data collection enabled in the workspace
 - Azure/Entra ID account with:
   - Log Analytics Workspace access
   - Log Analytics Reader permissions
