@@ -134,4 +134,5 @@ Marcel Nguyen - [@marcel_ngn](https://twitter.com/marcel_ngn)
 Project Link: [https://github.com/marcel-ngn/iga-insights](https://github.com/marcel-ngn/iga-insights)
 
 ---
-**Note**: This project is not affiliated with or endorsed by Microsoft.
+**Note**: This project is not affiliated with or endorsed by Microsoft. This content reflects my personal experience. 
+Please refrain from executing any code unless you fully understand it.
