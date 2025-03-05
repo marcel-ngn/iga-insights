@@ -90,13 +90,8 @@ Reports are saved to your desktop by default, or to a custom location you specif
 ## 📷 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://github.com/marcel-ngn/iga-insights/blob/main/images/dashboard_overview.png)
+![image](https://github.com/user-attachments/assets/a636cb1c-1087-421b-809a-537610762bf6)
 
-### User Activity Charts
-![User Activity Charts](https://github.com/marcel-ngn/iga-insights/blob/main/images/activity_charts.png)
-
-### User Details Table
-![User Details Table](https://github.com/marcel-ngn/iga-insights/blob/main/images/user_details.png)
 
 ## 🔄 Workflow
 
