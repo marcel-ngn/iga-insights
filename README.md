@@ -90,6 +90,8 @@ Reports are saved to your desktop by default, or to a custom location you specif
 ## 📷 Screenshots
 
 ### Dashboard Overview
+![image](https://github.com/user-attachments/assets/96d40870-ad63-42ac-9d2a-214f51981e77)
+
 ![image](https://github.com/user-attachments/assets/a636cb1c-1087-421b-809a-537610762bf6)
 
 
