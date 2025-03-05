@@ -129,7 +129,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Marcel Nguyen - [@marcel_ngn](https://twitter.com/marcel_ngn)
+[LinkedIn](https://www.linkedin.com/in/marcel-nguyen-5b82631a3/)
+[Bluesky](https://bsky.app/profile/marcel-ngn.bsky.social)
+
 
 Project Link: [https://github.com/marcel-ngn/iga-insights](https://github.com/marcel-ngn/iga-insights)
 
