@@ -2,9 +2,9 @@
 
 ![IGA-Insights Banner](https://github.com/marcel-ngn/iga-insights/blob/main/images/banner.png)
 
-## Identity Governance & Administration Insights for Azure/Entra ID
+## Identity Governance & Administration Insights for SSO applications
 
-IGA-Insights is a PowerShell toolkit designed to help Identity & Access Management professionals optimize their Azure/Entra ID environment by providing actionable insights on SSO application usage, user access patterns, and license utilization.
+IGA-Insights is a PowerShell script designed to help Identity & Access Management professionals optimize their Azure/Entra ID environment by providing actionable insights on SSO application usage, user access patterns, and license utilization.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![PowerShell: 7.0+](https://img.shields.io/badge/PowerShell-7.0+-blue.svg)
