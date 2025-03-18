@@ -49,7 +49,7 @@ Install-Module -Name Az.Accounts, Az.OperationalInsights, Microsoft.Graph -Scope
 
 ```powershell
 # Run the script with required parameters
-.\Analyze-SSOUsage.ps1 -AppName "Figma" -ThresholdDays 90
+.\iga-insights.ps1 -AppName "Figma" -ThresholdDays 90
 ```
 
 ### Parameters
