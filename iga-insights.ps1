@@ -3,7 +3,7 @@
     Analyzes Azure/Entra ID SSO application usage and generates detailed HTML reports.
 
 .DESCRIPTION
-    This script identifies inactive users of specified Azure/Entra ID SSO applications by analyzing sign-in logs in Log Analytics Workspace.
+    This script identifies inactive users of specified Entra ID SSO applications by analyzing sign-in logs in Log Analytics Workspace.
     It generates comprehensive HTML and CSV reports showing user activity, group memberships, and job titles.
 
 .PARAMETER AppName
@@ -13,17 +13,22 @@
     Number of days to consider for determining user inactivity (e.g., 90).
 
 .EXAMPLE
-    .\Analyze-SSOUsage.ps1 -AppName "Salesforce" -ThresholdDays 90
+    .\iga-insights.ps1 -AppName "Salesforce" -ThresholdDays 90
 
 .NOTES
     Version:        
     Author:         Marcel Nguyen
     Creation Date:  
     Requirements:   
-        - Az PowerShell module
-        - Microsoft.Graph PowerShell module
-        - Azure account with Log Analytics access
-        - Permissions: Log Analytics Reader, Azure AD Reader
+        -PowerShell 7.0 or higher
+        -Az PowerShell module (Az.Accounts, Az.OperationalInsights)
+        -Microsoft.Graph PowerShell module
+        - A Log Analytics Workspace with at least 365 days of retention period (recommended)
+        - SignInLogs data collection enabled in the workspace
+        Azure/Entra ID account with:
+        - Log Analytics Workspace access
+        - Log Analytics Reader permissions
+        - Azure/Entra ID Reader permissions
 
 .LINK
     https://github.com/marcel-ngn/iga-insights
